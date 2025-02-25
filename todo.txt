@@ -4,5 +4,4 @@
   - GitHub
   - Patents
   - Blog
-
-
+- fix LICENSE file
