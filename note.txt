@@ -1,0 +1,5 @@
+- change the color of cursor
+- add icons
+  - GitHub
+  - Patents
+  - Blog
