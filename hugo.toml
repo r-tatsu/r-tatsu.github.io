@@ -3,3 +3,4 @@ languageCode = 'ja'
 title = 'r-tatsu Webpage'
 theme = "hello-friend-ng"
 hasCJKLanguage = true
+publishDir = "docs"
