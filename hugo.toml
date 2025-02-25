@@ -1,0 +1,5 @@
+baseURL = 'https://r-tatsu.github.io/'
+languageCode = 'ja'
+title = 'r-tatsu Webpage'
+theme = "hello-friend-ng"
+hasCJKLanguage = true
