@@ -14,4 +14,4 @@ $ hugo server -D
 
 ## Author
 
-- [r-tatsu](https://github.com/r-tatsu.github.io)
+- [r-tatsu](https://r-tatsu.github.io)
