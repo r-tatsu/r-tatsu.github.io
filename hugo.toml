@@ -1,6 +1,7 @@
 baseURL = 'https://r-tatsu.github.io/'
 languageCode = 'ja'
 title = 'r-tatsu Webpage'
+homeSubtitle = "!! this website is currenty being updated. !!"
 theme = "hello-friend-ng"
 hasCJKLanguage = true
 publishDir = "docs"
