@@ -1,7 +1,32 @@
 baseURL = 'https://r-tatsu.github.io/'
-languageCode = 'ja'
 title = 'r-tatsu Webpage'
-homeSubtitle = "!! this website is currenty being updated. !!"
+languageCode = 'ja'
 theme = "hello-friend-ng"
+
 hasCJKLanguage = true
 publishDir = "docs"
+
+
+
+
+
+[params]
+
+  author = "r-tatsu"
+  dateform        = "Feb, 2025"
+  dateformShort   = "Feb 25"
+  dateformNum     = "2025-02-25"
+  dateformNumTime = "2025-02-25 00:00 +0900"
+
+  homeSubtitle = " this website is currenty being updated. "
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/r-tatsu"
+
+#  [[params.social]]
+#    name = "qiita"
+#    url = "https://qiita.com/r-tatsu"
