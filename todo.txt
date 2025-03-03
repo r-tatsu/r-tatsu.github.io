@@ -1,7 +1,7 @@
-- change the color of cursor
-- add author
+☑ change the color of cursor
+☑ add author
 - add icons
-  - GitHub
+  ☑ GitHub
   - Patents
   - Blog
 - fix LICENSE file
