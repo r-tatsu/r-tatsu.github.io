@@ -18,7 +18,10 @@ publishDir = "docs"
   dateformNum     = "2025-02-25"
   dateformNumTime = "2025-02-25 00:00 +0900"
 
-  homeSubtitle = " this website is currenty being updated. "
+  homeSubtitle = "RTL | Exploring AI & Machine Learning"
+
+  [params.logo]
+    logoText = "!this website is currenty being updated. "
 
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
