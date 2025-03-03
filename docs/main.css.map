@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/december6701/r-tatsu.github.io/r-tatsu.github.io",
+	"sourceRoot": "/Users/december6701/r-tatsu.github.io-1",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
