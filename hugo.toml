@@ -30,6 +30,6 @@ publishDir = "docs"
     name = "github"
     url = "https://github.com/r-tatsu"
 
-#  [[params.social]]
-#    name = "qiita"
-#    url = "https://qiita.com/r-tatsu"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/r-tatsu"
