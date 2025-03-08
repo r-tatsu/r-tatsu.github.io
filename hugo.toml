@@ -31,3 +31,7 @@ publishDir = "docs"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/r-tatsu"
+
+  [[params.social]]
+    name = "email"
+    url = "ryota.tatsuuma.pa@hitachi.com"
