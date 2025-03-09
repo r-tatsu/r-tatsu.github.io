@@ -34,4 +34,4 @@ publishDir = "docs"
 
   [[params.social]]
     name = "email"
-    url = "ryota.tatsuuma.pa@hitachi.com"
+    url = "mailto:ryota.tatsuuma.pa@hitachi.com"
