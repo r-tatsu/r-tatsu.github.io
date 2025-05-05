@@ -1,28 +1,52 @@
 baseURL = 'https://r-tatsu.github.io/'
 title = 'Ryo Tazma Webpage'
-languageCode = 'ja'
 theme = "hello-friend-ng"
-
 hasCJKLanguage = true
 publishDir = "docs"
 
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+  languageCode = "en"
+  languageName = "English"
+  weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    pageRef = "/posts"
+    weight = 1
+
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 2
+
+[languages.ja]
+  languageCode = "ja"
+  languageName = "日本語"
+  weight = 2
+
+  [[languages.ja.menu.main]]
+    identifier = "blog"
+    name = "ブログ"
+    pageRef = "/posts"
+    weight = 1
+
+  [[languages.ja.menu.main]]
+    identifier = "about"
+    name = "About"
+    pageRef = "/about"
+    weight = 2
+
 [params]
-
   author = "r-tatsu"
-  dateform        = "Feb, 2025"
-  dateformShort   = "Feb 25"
-  dateformNum     = "2025-02-25"
-  dateformNumTime = "2025-02-25 00:00 +0900"
-
-  # homeSubtitle = "this website is currenty being updated."
   homeSubtitle = "RTL | Exploring AI & Machine Learning"
 
   [params.logo]
-  # logoText = "RTL | Exploring AI & Machine Learning"
     logoText = "r-tatsu"
-
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
 
   [[params.social]]
     name = "github"
@@ -35,3 +59,6 @@ publishDir = "docs"
   [[params.social]]
     name = "email"
     url = "mailto:ryota.tatsuuma.pa@hitachi.com"
+
+  [params.footer]
+    trademark = '2025 Ryo Tazuma - Made with Hugo'
