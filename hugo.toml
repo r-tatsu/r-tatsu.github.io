@@ -15,7 +15,7 @@ defaultContentLanguageInSubdir = true
   [[languages.en.menu.main]]
     identifier = "blog"
     name = "Blog"
-    pageRef = "/posts"
+    url = "/posts"
     weight = 1
 
   [[languages.en.menu.main]]
@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = true
   [[languages.ja.menu.main]]
     identifier = "blog"
     name = "ブログ"
-    pageRef = "/posts"
+    url = "/posts"
     weight = 1
 
   [[languages.ja.menu.main]]

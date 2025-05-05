@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Ryo Tazma Webpage</title>
-    <link>https://r-tatsu.github.io/en/tags/untagged/</link>
+    <link>http://localhost:1313/en/tags/untagged/</link>
     <description>Recent content in Untagged on Ryo Tazma Webpage</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 19:16:28 +0900</lastBuildDate>
-    <atom:link href="https://r-tatsu.github.io/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://r-tatsu.github.io/en/en/posts/my-first-post/</link>
+      <link>http://localhost:1313/en/en/posts/my-first-post/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>https://r-tatsu.github.io/en/en/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://localhost:1313/en/en/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hello.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>https://r-tatsu.github.io/en/ja/posts/my-first-post/</link>
+      <link>http://localhost:1313/en/ja/posts/my-first-post/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>https://r-tatsu.github.io/en/ja/posts/my-first-post/</guid>
-      <description></description>
+      <guid>http://localhost:1313/en/ja/posts/my-first-post/</guid>
+      <description>&lt;p&gt;こんにちわ&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
