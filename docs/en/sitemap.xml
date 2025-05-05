@@ -24,6 +24,25 @@
     <loc>https://r-tatsu.github.io/en/ja/</loc>
     <lastmod>2025-02-25T19:16:28+09:00</lastmod>
   </url><url>
+    <loc>https://r-tatsu.github.io/en/en/posts/my-first-post/</loc>
+    <lastmod>2025-02-25T19:16:28+09:00</lastmod>
+  </url><url>
+    <loc>https://r-tatsu.github.io/en/tags/</loc>
+    <lastmod>2025-02-25T19:16:28+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://r-tatsu.github.io/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://r-tatsu.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://r-tatsu.github.io/en/tags/untagged/</loc>
+    <lastmod>2025-02-25T19:16:28+09:00</lastmod>
+  </url><url>
     <loc>https://r-tatsu.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -34,18 +53,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://r-tatsu.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://r-tatsu.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://r-tatsu.github.io/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://r-tatsu.github.io/en/tags/"
                 />
   </url>
 </urlset>

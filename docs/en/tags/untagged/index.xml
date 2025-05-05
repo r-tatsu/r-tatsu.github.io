@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens on Ryo Tazma Webpage</title>
-    <link>https://r-tatsu.github.io/en/en/</link>
-    <description>Recent content in Ens on Ryo Tazma Webpage</description>
+    <title>Untagged on Ryo Tazma Webpage</title>
+    <link>https://r-tatsu.github.io/en/tags/untagged/</link>
+    <description>Recent content in Untagged on Ryo Tazma Webpage</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 19:16:28 +0900</lastBuildDate>
-    <atom:link href="https://r-tatsu.github.io/en/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://r-tatsu.github.io/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://r-tatsu.github.io/en/en/posts/my-first-post/</link>
