@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryo Tazma Webpage</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://r-tatsu.github.io/en/</link>
     <description>Recent content on Ryo Tazma Webpage</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 05 May 2025 22:56:14 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://r-tatsu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>https://r-tatsu.github.io/en/about/</link>
       <pubDate>Mon, 05 May 2025 22:56:14 +0900</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Me&lt;br&gt;&#xA;I am a Digital Design Engineer specializing in RTL design. For more details, please see my &lt;a href=&#34;https://www.linkedin.com/in/r-tatsu/?locale=en_US&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Interests&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer Architecture&lt;/li&gt;&#xA;&lt;li&gt;Implementation methods of LLMs using FPGAs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;自己紹介&lt;br&gt;&#xA;主にRTL設計を専門としています。詳しい経歴については、&lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedInプロフィール&lt;/a&gt;をご確認ください。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;興味・関心分野&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;コンピュータアーキテクチャ&lt;/li&gt;&#xA;&lt;li&gt;FPGAを活用した大規模言語モデル（LLM）の実装手法&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://r-tatsu.github.io/en/about/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Me&lt;br&gt;&#xA;I am a Digital Design Engineer specializing in RTL design. For more details, please see my &lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Interests&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer Architecture&lt;/li&gt;&#xA;&lt;li&gt;Implementation methods of LLMs using FPGAs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;自己紹介&lt;br&gt;&#xA;主にRTL設計を専門としています。詳しい経歴については、&lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn&lt;/a&gt;をご確認ください。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;興味・関心分野&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;コンピュータアーキテクチャ&lt;/li&gt;&#xA;&lt;li&gt;FPGAを活用した大規模言語モデル（LLM）の実装手法&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
