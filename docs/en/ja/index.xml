@@ -6,7 +6,14 @@
     <description>Recent content in Jas on Ryo Tazma Webpage</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 19:16:28 +0900</lastBuildDate>
     <atom:link href="https://r-tatsu.github.io/en/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://r-tatsu.github.io/en/ja/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
+      <guid>https://r-tatsu.github.io/en/ja/posts/my-first-post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
