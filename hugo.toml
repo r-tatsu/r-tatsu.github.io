@@ -31,7 +31,7 @@ defaultContentLanguageInSubdir = true
 
   [[languages.ja.menu.main]]
     identifier = "blog"
-    name = "ブログ"
+    name = "技術ブログ"
     url = "/posts"
     weight = 1
 
