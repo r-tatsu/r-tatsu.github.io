@@ -61,4 +61,4 @@ defaultContentLanguageInSubdir = true
     url = "mailto:ryota.tatsuuma.pa@hitachi.com"
 
   [params.footer]
-    trademark = '2025 Ryo Tazuma - Made with Hugo'
+    trademark = '2025 Ryo Tazuma - powered by Hugo'
