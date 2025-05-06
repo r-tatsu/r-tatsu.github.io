@@ -65,4 +65,4 @@ defaultContentLanguageInSubdir = true
     url = "https://orcid.org/0009-0001-6199-1261"
 
   [params.footer]
-    trademark = '2025 Ryo Tazuma - powered by Hugo'
+    trademark = '2025 Ryo Tazma - powered by Hugo'

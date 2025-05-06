@@ -1,4 +1,5 @@
 ☑ change the color of cursor
+hugo new posts/en/xx.md
 ☑ add author
 - add icons
   ☑ GitHub
