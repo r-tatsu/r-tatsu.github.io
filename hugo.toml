@@ -60,5 +60,9 @@ defaultContentLanguageInSubdir = true
     name = "email"
     url = "mailto:ryota.tatsuuma.pa@hitachi.com"
 
+  [[params.social]]
+    name = "orcid"
+    url = "https://orcid.org/0009-0001-6199-1261"
+
   [params.footer]
     trademark = '2025 Ryo Tazuma - powered by Hugo'
