@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jas on Ryo Tazma</title>
-    <link>http://localhost:1313/en/ja/</link>
+    <link>https://r-tatsu.github.io/en/ja/</link>
     <description>Recent content in Jas on Ryo Tazma</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Feb 2025 19:16:28 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 22:56:14 +0900</lastBuildDate>
+    <atom:link href="https://r-tatsu.github.io/en/ja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://r-tatsu.github.io/en/ja/about/</link>
+      <pubDate>Mon, 05 May 2025 22:56:14 +0900</pubDate>
+      <guid>https://r-tatsu.github.io/en/ja/about/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;自己紹介&lt;br&gt;&#xA;主にRTLの設計を専門としています。詳しい経歴については、&lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn&lt;/a&gt;をご確認ください。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;興味・関心分野&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ハードウェア検証 (SystemVerilog, UVM, VIP)&lt;/li&gt;&#xA;&lt;li&gt;FPGAを活用した大規模言語モデル (LLM) の実装手法&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/en/ja/posts/my-first-post/</link>
+      <link>https://r-tatsu.github.io/en/ja/posts/my-first-post/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>http://localhost:1313/en/ja/posts/my-first-post/</guid>
+      <guid>https://r-tatsu.github.io/en/ja/posts/my-first-post/</guid>
       <description>&lt;p&gt;こんにちわ&lt;/p&gt;</description>
     </item>
   </channel>

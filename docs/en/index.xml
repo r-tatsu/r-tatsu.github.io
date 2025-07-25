@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ryo Tazma</title>
-    <link>http://localhost:1313/en/</link>
+    <link>https://r-tatsu.github.io/en/</link>
     <description>Recent content on Ryo Tazma</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 06 May 2025 00:37:16 +0900</lastBuildDate>
-    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 22:56:14 +0900</lastBuildDate>
+    <atom:link href="https://r-tatsu.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test</title>
-      <link>http://localhost:1313/en/en/posts/automate/</link>
-      <pubDate>Tue, 06 May 2025 00:37:16 +0900</pubDate>
-      <guid>http://localhost:1313/en/en/posts/automate/</guid>
-      <description>&lt;p&gt;始就業時の連絡を自動化するアプリを作成する。&#xA;1クリックでTeamsへの投稿とメールの送信と勤務表(Excel)の更新を行う。&lt;/p&gt;&#xA;&lt;h2 id=&#34;オフィススクリプトexcel更新用&#34;&gt;オフィススクリプト(Excel更新用)&lt;/h2&gt;&#xA;&lt;p&gt;※勤務表はエクセルである必要はなく、現在あなたの職場または研究室で利用されているツールに合わせるべきだ。&#xA;例えばSharePointのカレンダーや、Outlookの予定表が候補として挙げられる。&#xA;オフィススクリプトで書く。以下をコピペし、以下の三箇所を見直せば動く。&lt;/p&gt;</description>
+      <title>About</title>
+      <link>https://r-tatsu.github.io/en/en/about/</link>
+      <pubDate>Mon, 05 May 2025 22:56:14 +0900</pubDate>
+      <guid>https://r-tatsu.github.io/en/en/about/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Me&lt;br&gt;&#xA;I am a Digital Design Engineer specializing in RTL design. For more details, please see my &lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Interests&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hardware verification (SystemVerilog, UVM, VIP)&lt;/li&gt;&#xA;&lt;li&gt;Implementation methods of LLMs using FPGAs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/en/about/</link>
+      <link>https://r-tatsu.github.io/en/ja/about/</link>
       <pubDate>Mon, 05 May 2025 22:56:14 +0900</pubDate>
-      <guid>http://localhost:1313/en/about/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Me&lt;br&gt;&#xA;I am a Digital Design Engineer specializing in RTL design. For more details, please see my &lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Interests&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Computer Architecture&lt;/li&gt;&#xA;&lt;li&gt;Implementation methods of LLMs using FPGAs&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://r-tatsu.github.io/en/ja/about/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;自己紹介&lt;br&gt;&#xA;主にRTLの設計を専門としています。詳しい経歴については、&lt;a href=&#34;https://www.linkedin.com/in/r-tatsu&#34;&gt;LinkedIn&lt;/a&gt;をご確認ください。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;興味・関心分野&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ハードウェア検証 (SystemVerilog, UVM, VIP)&lt;/li&gt;&#xA;&lt;li&gt;FPGAを活用した大規模言語モデル (LLM) の実装手法&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/en/en/posts/my-first-post/</link>
+      <link>https://r-tatsu.github.io/en/en/posts/my-first-post/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>http://localhost:1313/en/en/posts/my-first-post/</guid>
+      <guid>https://r-tatsu.github.io/en/en/posts/my-first-post/</guid>
       <description>&lt;p&gt;ACRiルームの資源を使って、合成に必要な制約ファイルについて理解する。&#xA;せっかくならリッチなチップを使いたいので、VCK5000が使えるサーバにログインする。&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/en/ja/posts/my-first-post/</link>
+      <link>https://r-tatsu.github.io/en/ja/posts/my-first-post/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>http://localhost:1313/en/ja/posts/my-first-post/</guid>
+      <guid>https://r-tatsu.github.io/en/ja/posts/my-first-post/</guid>
       <description>&lt;p&gt;こんにちわ&lt;/p&gt;</description>
     </item>
   </channel>
