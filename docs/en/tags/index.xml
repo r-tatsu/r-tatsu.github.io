@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ryo Tazma Webpage</title>
-    <link>https://r-tatsu.github.io/en/tags/</link>
-    <description>Recent content in Tags on Ryo Tazma Webpage</description>
+    <title>Tags on Ryo Tazma</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Ryo Tazma</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 25 Feb 2025 19:16:28 +0900</lastBuildDate>
-    <atom:link href="https://r-tatsu.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Untagged</title>
-      <link>https://r-tatsu.github.io/en/tags/untagged/</link>
+      <link>http://localhost:1313/en/tags/untagged/</link>
       <pubDate>Tue, 25 Feb 2025 19:16:28 +0900</pubDate>
-      <guid>https://r-tatsu.github.io/en/tags/untagged/</guid>
+      <guid>http://localhost:1313/en/tags/untagged/</guid>
       <description></description>
     </item>
   </channel>

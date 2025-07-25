@@ -1,5 +1,5 @@
 
-My website.
+Personal website.
 
 ## Run locally
 

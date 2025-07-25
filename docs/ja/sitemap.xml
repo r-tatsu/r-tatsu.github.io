@@ -2,54 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://r-tatsu.github.io/ja/ja/</loc>
+    <loc>http://localhost:1313/ja/ja/</loc>
     <lastmod>2025-05-06T00:47:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://r-tatsu.github.io/en/ja/"
+                href="http://localhost:1313/en/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://r-tatsu.github.io/ja/ja/"
+                href="http://localhost:1313/ja/ja/"
                 />
   </url><url>
-    <loc>https://r-tatsu.github.io/ja/</loc>
+    <loc>http://localhost:1313/ja/ja/posts/</loc>
+    <lastmod>2025-05-06T00:47:07+09:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/ja/</loc>
     <lastmod>2025-05-06T00:47:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://r-tatsu.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://r-tatsu.github.io/ja/"
+                href="http://localhost:1313/ja/"
                 />
   </url><url>
-    <loc>https://r-tatsu.github.io/ja/categories/</loc>
+    <loc>http://localhost:1313/ja/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://r-tatsu.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://r-tatsu.github.io/ja/categories/"
+                href="http://localhost:1313/ja/categories/"
                 />
   </url><url>
-    <loc>https://r-tatsu.github.io/ja/tags/</loc>
+    <loc>http://localhost:1313/ja/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://r-tatsu.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://r-tatsu.github.io/ja/tags/"
+                href="http://localhost:1313/ja/tags/"
                 />
   </url>
 </urlset>

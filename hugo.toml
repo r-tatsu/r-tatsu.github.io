@@ -1,5 +1,5 @@
 baseURL = 'https://r-tatsu.github.io/'
-title = 'Ryo Tazma Webpage'
+title = 'Ryo Tazma'
 theme = "hello-friend-ng"
 hasCJKLanguage = true
 publishDir = "docs"
